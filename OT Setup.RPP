@@ -1,0 +1,1038 @@
+<REAPER_PROJECT 0.1 "5.22/x64" 1470925929
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 0 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 552.48969461169202 0 0
+  VZOOMEX 4
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  MIDIEDITOR 7798901 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 "Track 1 Audio" 0 0 1 R
+  MARKER 2 210 "Track 2 Audio" 0 0 1 R
+  MARKER 3 420 "Track 3 Audio" 0 0 1 R
+  MARKER 4 630 "Track 4 Audio" 0 0 1 R
+  MARKER 5 840 "Track 5 Audio" 0 0 1 R
+  MARKER 6 1050 "Track 6 Audio" 0 0 1 R
+  MARKER 7 1260 "Track 7 Audio" 0 0 1 R
+  MARKER 8 1470 "Track 8 Audio" 0 0 1 R
+  <PROJBAY
+  >
+  <TRACK {C24C6009-377E-4FF7-9B87-B0496468EA84}
+    NAME "Audio Track Folder"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 1 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C24C6009-377E-4FF7-9B87-B0496468EA84}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {1B880273-0AE2-4E17-9BDA-A6677A6055B8}
+    NAME "Track 1 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B880273-0AE2-4E17-9BDA-A6677A6055B8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {EDB90026-4350-4650-A48F-81AB346A1F05}
+    NAME "Track 2 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EDB90026-4350-4650-A48F-81AB346A1F05}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {52F24613-02FB-40DF-A581-E02249F9B902}
+    NAME "Track 3 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {52F24613-02FB-40DF-A581-E02249F9B902}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {0EA16EBC-6FD4-4E3C-B8D6-9DE9B111F5BE}
+    NAME "Track 4 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0EA16EBC-6FD4-4E3C-B8D6-9DE9B111F5BE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {CC6CB616-7B80-43F8-9E70-E2F99183AB5A}
+    NAME "Track 5 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CC6CB616-7B80-43F8-9E70-E2F99183AB5A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {69C2D65C-04CE-436F-A77F-E37BA9FE21B5}
+    NAME "Track 6 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {69C2D65C-04CE-436F-A77F-E37BA9FE21B5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {2B05CA04-D1D7-42CA-A37B-63F3D2785A16}
+    NAME "Track 7 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2B05CA04-D1D7-42CA-A37B-63F3D2785A16}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {ACBDC8AC-1190-476A-9D06-0991800E4DF9}
+    NAME "Track 8 Audio"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ACBDC8AC-1190-476A-9D06-0991800E4DF9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {0E0C87E3-6FCA-44F5-B414-AFD435B4DD80}
+    NAME "Midi CC Control"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 148 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0E0C87E3-6FCA-44F5-B414-AFD435B4DD80}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B5BB711F-73EE-48E9-A750-0BFC331A750E}
+      IID 7
+      NAME "Track 1"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24B731A2-2C2C-4D17-876F-5F257F465EAC}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {72F7E165-228A-4A76-8DE5-D2A1C3F6CE13}
+        e 0 b0 31 00
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 4 -1 -1 -1 -1 2 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 3 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 210
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7244C63D-C2E6-48C9-BF22-5E4F530CC7D8}
+      IID 7
+      NAME "Track 2"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DBDF733-7223-4501-BDF6-60F0B09EAE64}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E4AF6C06-EE53-4EDD-8329-FE816739E96D}
+        e 0 b0 31 7f
+        e 0 b1 31 00
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 2 -1 -1 -1 -1 1 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 2 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 420
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E7D6881-99F6-4630-9B86-00F7112DF582}
+      IID 7
+      NAME "Track 3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A10CD30F-E8FE-4B54-BD91-113064FB2543}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E6848747-2639-4E3A-8194-B1E5897C2F9E}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 00
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 1 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 630
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C450FEA6-B6B2-4EF1-B399-6E121A523734}
+      IID 7
+      NAME "Track 4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0B4B73E-B15E-4A9E-A38F-A621EB9C09C9}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {60D1EA3D-7B83-4D21-A421-581CA20C53AB}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 00
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 8 -1 -1 -1 -1 3 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 4 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 840
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A21D0EEF-E5F0-4F9E-9FDB-C970F9FC87D1}
+      IID 7
+      NAME "Track 5"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F5B3FB22-30F1-4C39-8C3F-2ED9813E7E51}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {C0062488-160B-4B1C-8FA5-D2106FA418DD}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 00
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 16 -1 -1 -1 -1 4 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 5 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 1050
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0991001D-ABDE-4463-A38F-03D0BDB36FA4}
+      IID 7
+      NAME "Track 6"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3BC3CC5-07BB-43F3-85DA-371B6406B1D3}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {AEAE2867-40AF-4493-BFA4-40C7282F619D}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 00
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 32 -1 -1 -1 -1 5 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 6 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 1260
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EE6F8E1-1C86-4015-A912-9A7CBC4B8B5C}
+      IID 7
+      NAME "Track 7"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E14270F6-4753-431A-A2E2-23D8AA6F6811}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {2F2B2B00-6AEF-4881-ADA0-F75A40745555}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 00
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 64 -1 -1 -1 -1 6 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 7 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 1470
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 1
+      IGUID {7633B433-6DAC-4730-8E97-7CC54791D7A2}
+      IID 7
+      NAME "Track 8"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5569A973-6206-441C-BD0D-848564FD8572}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {68C06EC6-0201-48B4-BB2F-60D4207B31AE}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 00
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 128 -1 -1 -1 -1 7 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 8 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+  <TRACK {574ED2A5-F6EA-491C-B194-FD84DBEBBA74}
+    NAME "Midi Control Backups"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 1 1
+    BUSCOMP 2 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 24 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {574ED2A5-F6EA-491C-B194-FD84DBEBBA74}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {A1B292FB-EFCA-4560-A7A0-5A14C3AE6C83}
+    NAME "Midi CC Control Backup"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 2 -1
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 91 1
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A1B292FB-EFCA-4560-A7A0-5A14C3AE6C83}
+    PERF 0
+    MIDIOUT -32
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8248B881-45FD-4C11-B090-60E0763EC109}
+      IID 7
+      NAME "Track 1"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B05E1EF3-DB8A-4486-8DF9-CDBE521ADFFF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {7B8450A4-C240-4BE5-B5C7-721DE7640E7F}
+        e 0 b0 31 00
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {B809151E-7323-496E-8A26-FC2C38E4D858}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 29
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 2 -1 -1 -1 -1 1 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 2 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7D51F1C9-3A18-457C-92A9-5E8986573399}
+      IID 7
+      NAME "Track 2"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F5660C4-EE57-454A-A15A-1F036FB62FDE}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {26861412-3A5A-42C8-A511-2A39AFD9BB3F}
+        e 0 b0 31 7f
+        e 0 b1 31 00
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 1 -1 -1 -1 -1 0 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C5E2A845-D811-48DB-A0E3-E22214A2986E}
+      IID 7
+      NAME "Track 3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E58F9980-69EF-492F-9FDC-4E07C391759D}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {D8BC083C-210B-4289-B10A-A31346ADA59D}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 00
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 4 -1 -1 -1 -1 2 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 3 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {46D6BE60-148D-4D11-9892-15A4750270A4}
+      IID 7
+      NAME "Track 4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9D795C3-7DBA-4E97-BE07-3A05AC2670BF}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {1EA1CD3E-76A8-40DC-85EE-D42492E1DAA1}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 00
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 8 -1 -1 -1 -1 3 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 4 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {338FF932-FCDC-47EF-AD49-5BD1FE5F6B42}
+      IID 7
+      NAME "Track 5"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF4B391-8D24-4D05-B394-CEED8FAFF2E0}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {A6619AD1-9425-40C2-AA41-EC41D5DD455F}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 00
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 16 -1 -1 -1 -1 4 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 5 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9BC03E7C-07C9-40E8-AE8A-BA2174B8963A}
+      IID 7
+      NAME "Track 6"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2971267-C2FB-4FCE-BB5E-1B1AE6AD6A8E}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {8AF2AD94-B591-421A-A0E5-C3CBF49C21E1}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 00
+        e 0 b6 31 7f
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 32 -1 -1 -1 -1 5 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 6 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {724274F5-763C-4CB3-B272-05FF6C2E8C6D}
+      IID 7
+      NAME "Track 7"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0561B1A1-3245-4744-BE6D-A8A632DBCEB5}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {9BDA0EAE-B8E9-4920-8FFA-71C03946035E}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 00
+        e 0 b7 31 7f
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 64 -1 -1 -1 -1 6 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 7 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B4E03393-9FED-497B-AA38-B6ADDCDBBC36}
+      IID 7
+      NAME "Track 8"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF12E54-D245-4F29-B216-C0125BA99BB2}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        POOLEDEVTS {E328F14F-23E2-4373-9881-7DB970280B21}
+        e 0 b0 31 7f
+        e 0 b1 31 7f
+        e 0 b2 31 7f
+        e 0 b3 31 7f
+        e 0 b4 31 7f
+        e 0 b5 31 7f
+        e 0 b6 31 7f
+        e 0 b7 31 00
+        E 960 b0 7b 00
+        GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 19
+        VELLANE 49 100 0
+        CFGEDITVIEW 0 0.7125 61 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 128 -1 -1 -1 -1 7 1 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 8 1 1 0.125 0 42 853 672 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
+      >
+    >
+  >
+>
