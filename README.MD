@@ -1,18 +1,18 @@
-#Octatrack “Stems”
+# Octatrack “Stems”
  
 As far as I know there’s no way for Octatrack users to bounce their tracks as stems. I found an automated way of doing it. 
 In this document I will explain how to setup everything you need to get this project working. I found the easiest way to accomplish 
 this was using the Reaper DAW. Included with this fill will be a project template and a Custom Action file. I will also attach a link 
 to a spreadsheet that I use to get my marker locations.
  
-##So how does this work?
+## So how does this work?
 
 With the SWS/S&M extensions in Cockos Reaper, you are allowed to use something called Marker Actions. Marker Actions allow 
 you to basically run shortcuts/actions. The other method that completes this all is Midi CC. 
 
 All of the values I use in my example are default settings. If you need to adjust for your customized setup do so accordingly. 
 
-###Install/Setup
+### Install/Setup
 
 Obviously you will need to install the Reaper Daw (http://reaper.fm) and SWS/S&M (http://www.sws-extension.org). Once you install 
 those two pieces of software you will be ready to run with this next portion of the setup.
@@ -36,7 +36,7 @@ rely on Action ID’s. The setup I have references my action id. It may work if 
 use my setup. While you’re in the action list search for “Marker Actions” click on “Enable Marker Actions” IDK if it’s enabled by default but it cannot 
 hurt to click that action. 
 	
-###Running
+### Running
 Now you are ready to run the program. With everything set up and ready to go, click on your song sequence in your octatrack. Arm “OT Audio” track 
 for recording. Click record. 
 
