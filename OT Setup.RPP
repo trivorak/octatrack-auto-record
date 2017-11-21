@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.62/x64" 1510862210
+<REAPER_PROJECT 0.1 "5.62/x64" 1511290515
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -14,8 +14,8 @@
   TIMEMODE 6 5 -1 30 0
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 210
-  ZOOM 10.76820198941103 1762 0
+  CURSOR 0
+  ZOOM 0.25062823385424 0 0
   VZOOMEX 4
   USE_REC_CFG 0
   RECMODE 1
@@ -136,7 +136,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 83 0
@@ -150,8 +150,8 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -176,7 +176,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -191,8 +191,8 @@
     <ITEM
       POSITION 215
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -217,7 +217,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -232,8 +232,8 @@
     <ITEM
       POSITION 430
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -258,7 +258,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -273,8 +273,8 @@
     <ITEM
       POSITION 645
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -299,7 +299,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -314,8 +314,8 @@
     <ITEM
       POSITION 860
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -340,7 +340,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -355,8 +355,8 @@
     <ITEM
       POSITION 1075
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -381,7 +381,7 @@
         e 0 b5 31 00
         e 0 b6 31 7f
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -396,8 +396,8 @@
     <ITEM
       POSITION 1290
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -422,7 +422,7 @@
         e 0 b5 31 7f
         e 0 b6 31 00
         e 0 b7 31 7f
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -437,8 +437,8 @@
     <ITEM
       POSITION 1505
       SNAPOFFS 0
-      LENGTH 0.5
-      LOOP 1
+      LENGTH 64
+      LOOP 0
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0
       FADEOUT 1 0 0 1 0 0
@@ -463,7 +463,7 @@
         e 0 b5 31 7f
         e 0 b6 31 7f
         e 0 b7 31 00
-        E 960 b0 7b 00
+        E 122880 b0 7b 00
         GUID {A3C15D3A-5241-4FBB-965E-25BAE1CB3A68}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 19
@@ -488,7 +488,7 @@
     BUSCOMP 2 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 232 0
@@ -853,5 +853,23 @@
     >
   >
   <EXTENSIONS
+    <MARKERLIST "Test"
+      1 0.00000000000000 "Track 1 Audio" 0 -1.00000000000000 0
+      9 210.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      2 215.00000000000000 "Track 2 Audio" 0 -1.00000000000000 0
+      10 425.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      3 430.00000000000000 "Track 3 Audio" 0 -1.00000000000000 0
+      11 640.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      4 645.00000000000000 "Track 4 Audio" 0 -1.00000000000000 0
+      12 855.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      5 860.00000000000000 "Track 5 Audio" 0 -1.00000000000000 0
+      13 1070.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      6 1075.00000000000000 "Track 6 Audio" 0 -1.00000000000000 0
+      14 1285.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      7 1290.00000000000000 "Track 7 Audio" 0 -1.00000000000000 0
+      15 1500.00000000000000 !_e09b49b56869964487d5db37808e0667 0 -1.00000000000000 0
+      8 1505.00000000000000 "Track 8 Audio" 0 -1.00000000000000 0
+      16 1715.00000000000000 !1016 0 -1.00000000000000 0
+    >
   >
 >
