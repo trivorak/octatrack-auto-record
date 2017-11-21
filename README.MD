@@ -40,5 +40,8 @@ hurt to click that action.
 Now you are ready to run the program. With everything set up and ready to go, click on your song sequence in your octatrack. Arm “OT Audio” track 
 for recording. Click record. 
 
+### Scripts
+Python Script added to use the Copy Paste function of SWS marker Utility
+
 Drake Champagne
 
