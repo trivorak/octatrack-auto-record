@@ -4,6 +4,11 @@ As far as I know there’s no way for Octatrack users to bounce their tracks as 
 In this document I will explain how to setup everything you need to get this project working. I found the easiest way to accomplish 
 this was using the Reaper DAW. Included with this fill will be a project template and a Custom Action file. I will also attach a link 
 to a spreadsheet that I use to get my marker locations.
+
+## Requirements
+Reaper Daw
+SWS/S&M Extensions
+Python 2.7 (not 3.0+ currently) 
  
 ## So how does this work?
 
