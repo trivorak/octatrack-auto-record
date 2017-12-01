@@ -6,9 +6,9 @@ this was using the Reaper DAW. Included with this fill will be a project templat
 to a spreadsheet that I use to get my marker locations.
 
 ## Requirements
-Reaper Daw
-SWS/S&M Extensions
-Python 2.7 (not 3.0+ currently) 
+*Reaper Daw
+*SWS/S&M Extensions
+*Python 2.7 (not 3.0+ currently) 
  
 ## So how does this work?
 
