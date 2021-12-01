@@ -8,7 +8,7 @@ to a spreadsheet that I use to get my marker locations.
 ## Requirements
 * Reaper Daw
 * SWS/S&M Extensions
-* Python 2.7 (not 3.0+ currently) 
+* Python
  
 ## So how does this work?
 
