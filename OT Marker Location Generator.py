@@ -17,34 +17,34 @@ def addSpacingLength(time):
     return (time)
 
 ##Debugging
-print "1 " + str(songLocation) + ' "Track 1 Audio"' + endOfLine
+print("1 " + str(songLocation) + ' "Track 1 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "2 " + str(songLocation) + actionMarkerId + endOfLine
+print("2 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "3 " + str(songLocation) + ' "Track 2 Audio"' + endOfLine
+print("3 " + str(songLocation) + ' "Track 2 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "4 " + str(songLocation) + actionMarkerId + endOfLine
+print("4 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "5 " + str(songLocation) + ' "Track 3 Audio"' + endOfLine
+print("5 " + str(songLocation) + ' "Track 3 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "6 " + str(songLocation) + actionMarkerId + endOfLine
+print("6 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "7 " + str(songLocation) + ' "Track 4 Audio"' + endOfLine
+print("7 " + str(songLocation) + ' "Track 4 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "8 " + str(songLocation) + actionMarkerId + endOfLine
+print("8 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "9 " + str(songLocation) + ' "Track 5 Audio"' + endOfLine
+print("9 " + str(songLocation) + ' "Track 5 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "10 " + str(songLocation) + actionMarkerId + endOfLine
+print("10 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "11 " + str(songLocation) + ' "Track 6 Audio"' + endOfLine
+print("11 " + str(songLocation) + ' "Track 6 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "12 " + str(songLocation) + actionMarkerId + endOfLine
+print("12 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "13 " + str(songLocation) + ' "Track 7 Audio"' + endOfLine
+print("13 " + str(songLocation) + ' "Track 7 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "14 " + str(songLocation) + actionMarkerId + endOfLine
+print("14 " + str(songLocation) + actionMarkerId + endOfLine)
 songLocation = addSpacingLength(songLocation)
-print "15 " + str(songLocation) + ' "Track 8 Audio"' + endOfLine
+print("15 " + str(songLocation) + ' "Track 8 Audio"' + endOfLine)
 songLocation = addSongLength(songLocation)
-print "16 " + str(songLocation) + stopActionMarker + endOfLine
+print("16 " + str(songLocation) + stopActionMarker + endOfLine)
