@@ -1,5 +1,13 @@
 import math
+import sys
 
+## Controls
+spacing = 5
+
+## Init Variables
+songLocation = 0
+
+## Script Start
 minutesInput = input("Total Minutes? ")
 
 try:
@@ -8,18 +16,18 @@ try:
 except:
     try:
         minutes = int(math.floor(float(minutesInput)))
-        seconds = int(math.floor((float(minutesInput)%1)*60))
+        seconds = int(math.floor((float(minutesInput)%1)*100))
     except:
+        print("")
+        print("--------------")
         print("Error on Input")
-        exit
+        print("Please type int or float only on prompt")
+        print("Exiting")
+        print("--------------")
+        print("")
+        sys.exit()
 
 songLength = (minutes * 60) + seconds
-
-## Controls
-spacing = 5
-
-## Init Variables
-songLocation = 0
 
 ## Triggers
 actionMarkerId = " !_e09b49b56869964487d5db37808e0667"
