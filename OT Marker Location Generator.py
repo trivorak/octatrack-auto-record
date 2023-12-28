@@ -7,7 +7,7 @@ actionMarkerId = " !_e09b49b56869964487d5db37808e0667"
 stopActionMarker = " !1016"
 endOfLine = " 0 1 0"
 
-##Basic Addition Fucntion using User's input
+##Basic Addition Function using User's input
 def addSongLength(time):
     time = (time + songLength)
     return (time)
