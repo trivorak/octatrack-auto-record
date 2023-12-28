@@ -1,6 +1,18 @@
-## Input Information
-minutes = int(input("Total Minutes? "))
-seconds = int(input("Total Seconds? "))
+import math
+
+minutesInput = input("Total Minutes? ")
+
+try:
+    minutes = int(minutesInput)
+    seconds = int(input("Total Seconds? "))
+except:
+    try:
+        minutes = int(math.floor(float(minutesInput)))
+        seconds = int(math.floor((float(minutesInput)%1)*60))
+    except:
+        print("Error on Input")
+        exit
+
 songLength = (minutes * 60) + seconds
 
 ## Controls
